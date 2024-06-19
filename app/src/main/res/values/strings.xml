@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="searchbar_hint">Masukkan ID</string>
+    <string name="username">Username</string>
+    <string name="name">Nama User</string>
+    <string name="total_followers">Jumlah Followers</string>
+    <string name="total_following">Jumlah Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="added">Satu item berhasil ditambahkan ke Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
